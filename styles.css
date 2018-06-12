@@ -1,0 +1,16 @@
+body {
+    width: 960px;
+    margin: auto;
+
+}
+
+.pic {
+    float: left;
+}
+
+header {
+    font-size: 24pt;
+    font-weight: 200;
+    align-content: center;
+
+}
